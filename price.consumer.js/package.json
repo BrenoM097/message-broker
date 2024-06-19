@@ -1,0 +1,19 @@
+{
+  "name": "price.consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrenoM097/message-broker.git"
+  },
+  "author": "breno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrenoM097/message-broker/issues"
+  },
+  "homepage": "https://github.com/BrenoM097/message-broker#readme",
+  "description": ""
+}
