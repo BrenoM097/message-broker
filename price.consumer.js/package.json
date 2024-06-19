@@ -15,5 +15,8 @@
     "url": "https://github.com/BrenoM097/message-broker/issues"
   },
   "homepage": "https://github.com/BrenoM097/message-broker#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "amqplib": "^0.10.4"
+  }
 }

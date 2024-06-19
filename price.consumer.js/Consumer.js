@@ -11,7 +11,7 @@ amqp.connect({
     .then((connection) => {
         connection.createChannel()
         .then((canal) => {
-            canal.consume(fila, (message) => {
+            canal.consume(queue, (message) => {
                 console.log(message.content.toString())
             })
         })
