@@ -28,6 +28,8 @@ public class StockConsumer {
             System.out.println(stockDTO.quantity);
             System.out.println(stockDTO.SKU);
             System.out.println("_______________________________");
+
+            Thread.sleep(12000);
         } catch (Exception e) {
             e.printStackTrace();
         }
